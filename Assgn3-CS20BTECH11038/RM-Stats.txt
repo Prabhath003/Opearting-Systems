@@ -1,6 +1,0 @@
-Number of processes that came into the system: 5
-Number of Processes that successfully completed: 4
-Number of Processes that missed their deadlines: 1
-Process 1: Average waiting time: 0.00692569
-Process 2: Average waiting time: 37.5306
-Overall Average waiting time: 15.0164
